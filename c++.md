@@ -3,7 +3,7 @@
 
 int i=0;
 void main(){
-  int i=o;
+  int i=i;
 }
 问：输出结果是什么？
 答案：main()里面的i是一个未定义值
