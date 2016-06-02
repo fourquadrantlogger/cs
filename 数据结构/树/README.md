@@ -21,4 +21,7 @@
 + 高度为h的m次树，至多有<img src="http://www.forkosh.com/mathtex.cgi? \frac{m^h -1}{m-1}">个结点
 ><img src="http://www.forkosh.com/mathtex.cgi?n= \frac{m^h -1}{m-1} =m+m^2+...m^\(h-1">
 
-
+## 树的运算
++ 先根遍历
++ 后根遍历
++ 层次遍历
