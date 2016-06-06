@@ -12,4 +12,4 @@
 访问文件
 
 + 平均查找长度
- 
+ <img src="http://www.forkosh.com/mathtex.cgi?ASL= \sum_{i=1}^n{p_i*c_i}">
