@@ -49,3 +49,13 @@ keys  *
 
 + mget key1 key2 ... keyN
 一次获取多个key的值
+
+ * 增减操作
+
+ * * incr key
+
+     这个操作的应用场景：计数器
+
+    * decr key
+
+     减法操作
